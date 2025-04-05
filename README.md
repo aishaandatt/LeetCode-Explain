@@ -12,7 +12,7 @@ Powered by **[Reka Flash-3](https://openrouter.ai/models/rekaai/reka-flash-3)** 
 - ✨ Shows real-time response in popup
 - 🌀 Loading spinner while waiting
 - 🔐 API key kept private using `config.js`
-- 📦 Added LocalStorage for fetching already queried Questions
+- 📦 Added LocalStorage for fetching already queried Question.
 
 ---
 
