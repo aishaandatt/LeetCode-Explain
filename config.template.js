@@ -1,0 +1,3 @@
+const CONFIG = {
+    KEY: "<KEY>"
+}
